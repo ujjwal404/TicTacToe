@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictactoe-f8185": {
+      "hosting": {
+        "myapp": [
+          "tictactoe-f8185"
+        ]
+      }
+    }
+  }
+}
